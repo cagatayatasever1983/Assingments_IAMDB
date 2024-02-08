@@ -1,0 +1,20 @@
+[
+    {
+        "id": "b9f2d28c-57dc-4381-a752-ac36611ab51a",
+        "first_name": "Arnold",
+        "last_name": "Schwarzenegger",
+        "birth_year": 1947
+    },
+    {
+        "id": "b636e887-7402-4eda-885f-549ea9792116",
+        "first_name": "Charlize",
+        "last_name": "Theron",
+        "birth_year": 1975
+    },
+    {
+        "id": "c22c7475-bd4b-4dfd-ab3b-eb27ef4cb59f",
+        "first_name": "Brad",
+        "last_name": "Pitt",
+        "birth_year": 1963
+    }
+]
